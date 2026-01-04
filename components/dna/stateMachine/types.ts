@@ -1,5 +1,0 @@
-export type DNAState =
-  | "STRUCTURAL_EXPOSURE"
-  | "REPLICATION"
-  | "TRANSLATION"
-  | "COMPLETE";
